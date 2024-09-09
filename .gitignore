@@ -1,0 +1,83 @@
+# Xcode
+#
+# Xcode specific
+.DS_Store
+*.swp
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+*.xcuserdatad
+*.xcdebugger
+*.xccheckout
+*.xcscheme
+*.xcschemes
+*.xcuserstate
+*.moved-aside
+DerivedData/
+build/
+*.xcuserstate
+
+# Swift Package Manager
+#
+# Swift Package Manager specific
+/.build/
+/Package.pins
+/Package.resolved
+
+# CocoaPods
+#
+# CocoaPods specific
+Pods/
+Podfile.lock
+
+# Carthage
+#
+# Carthage specific
+Carthage/
+Carthage/Build/
+
+# Accio
+#
+# Accio specific
+.accio/
+
+# SwiftLint
+#
+# SwiftLint specific
+.swiftlint.yml
+
+# Other
+#
+# Other specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.playground/
+*.playgroundbook/
+*.xctest/
+*.h
+*.m
+*.a
+*.lib
+*.dll
+*.dylib
+*.framework
+*.xcassets
+*.xccolortheme
+*.xcuserstate
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# User-specific files
+*.xcuserstate
+*.xcworkspace/xcuserdata
+
+# Build
+build/
+DerivedData/
